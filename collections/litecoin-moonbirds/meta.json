@@ -1,0 +1,11 @@
+{
+  "description": "Litecoin Moonbirds are a collection of 9200 early Litecoin Ordinals crated by LitecoinLabs",
+  "discord_link": "https://discord.com/invite/litecoinlabs",
+  "inscription_icon": "13f9e646cf1ab2a3679420a49dbaf7aff0a1fd3a47f274b7202664777b589790i0",
+  "name": "Litecoin Moonbirds",
+  "slug": "litecoin-moonbirds",
+  "supply": "9200",
+  "website_link": "https://litecoinpunks.xyz",
+  "twitter_link": "https://twitter.com/ltcmoonbird",
+  "royalty_address": "ltc1qpj7npp4dl82f805n9lpwwypx89wt832awqkuss"
+}
