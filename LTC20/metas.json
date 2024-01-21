@@ -3,90 +3,135 @@
     "name": "LITE LTC",
     "logo": "https://cdn.coinranking.com/rQdUpJdc3/rlPCBeWM_400x400.PNG?size=30x30",
     "ticker": "lite",
-    "totalSupply": "84000000"
+    "totalSupply": "84000000",
+    "website_link": "",
+    "twitter_link": "",
+    "discord_link": ""
   },
   {
     "name": "FOMO LTC",
     "logo": "https://cdn.coinranking.com/1vgjk9lB9/fomo.svg?size=30x30",
     "ticker": "fomo",
-    "totalSupply": "84000000"
+    "totalSupply": "84000000",
+    "website_link": "",
+    "twitter_link": "",
+    "discord_link": ""
   },
   {
     "name": "CHKN",
     "logo": "https://cdn.coinranking.com/BabHtjpki/chkn.svg?size=30x30",
     "ticker": "chkn",
-    "totalSupply": "84000000"
+    "totalSupply": "84000000",
+    "website_link": "",
+    "twitter_link": "",
+    "discord_link": ""
   },
   {
     "name": "COOP",
     "logo": "https://cdn.coinranking.com/mufS0Cshq/coop.svg?size=30x30",
     "ticker": "coop",
-    "totalSupply": "84000000"
+    "totalSupply": "84000000",
+    "website_link": "",
+    "twitter_link": "",
+    "discord_link": ""
   },
   {
     "name": "EGGS",
     "logo": "https://cdn.coinranking.com/kEUonj32j/eggs.svg?size=30x30",
     "ticker": "eggs",
-    "totalSupply": "84000000"
+    "totalSupply": "84000000",
+    "website_link": "",
+    "twitter_link": "",
+    "discord_link": ""
   },
   {
     "name": "MCDO LTC",
     "logo": "https://cdn.coinranking.com/evf5-IuLl/Y1-ksnAE_400x400.PNG?size=30x30",
     "ticker": "mcdo",
-    "totalSupply": "10000000"
+    "totalSupply": "10000000",
+    "website_link": "",
+    "twitter_link": "",
+    "discord_link": ""
   },
   {
     "name": "GoapSuip LTC",
     "logo": "https://cdn.coinranking.com/0Jg2DKQ1U/qqi7TYwH_400x400.PNG?size=30x30",
     "ticker": "suip",
-    "totalSupply": "21000000"
+    "totalSupply": "21000000",
+    "website_link": "",
+    "twitter_link": "",
+    "discord_link": ""
   },
   {
     "name": "ALEX LTC",
     "logo": "https://cdn.coinranking.com/-OgA66MmL/LFGCtzf4_400x400.PNG?size=30x30",
     "ticker": "alex",
-    "totalSupply": "84000"
+    "totalSupply": "84000",
+    "website_link": "",
+    "twitter_link": "",
+    "discord_link": ""
   },
   {
     "name": "PUMP LTC",
     "logo": "https://cdn.coinranking.com/ItIzF5x0v/yp1fgIYP_400x400.PNG?size=30x30",
     "ticker": "pump",
-    "totalSupply": "21000000"
+    "totalSupply": "21000000",
+    "website_link": "",
+    "twitter_link": "",
+    "discord_link": ""
   },
   {
     "name": "HOLD LTC",
     "logo": "https://cdn.coinranking.com/smG2jjsq3/ZBPf4rgo_400x400.PNG?size=30x30",
     "ticker": "hold",
-    "totalSupply": "21000000"
+    "totalSupply": "21000000",
+    "website_link": "",
+    "twitter_link": "",
+    "discord_link": ""
   },
   {
     "name": "GRLC LTC",
     "logo": "https://cdn.coinranking.com/AktcraeZA/PWvHnpzp_400x400.PNG?size=30x30",
     "ticker": "grlc",
-    "totalSupply": "9000000"
+    "totalSupply": "9000000",
+    "website_link": "",
+    "twitter_link": "",
+    "discord_link": ""
   },
   {
     "name": "LNFT LTC",
     "logo": "https://cdn.coinranking.com/0FO8beCSH/DqssdOf3_400x400.PNG?size=30x30",
     "ticker": "lnft",
-    "totalSupply": "21000000"
+    "totalSupply": "21000000",
+    "website_link": "",
+    "twitter_link": "",
+    "discord_link": ""
   },
   {
     "name": "MORA STUDIO LTC",
     "logo": "https://cdn.coinranking.com/UsboxGmLC/h2opVI0A_400x400.PNG?size=30x30",
     "ticker": "mora",
-    "totalSupply": "84000000"
+    "totalSupply": "84000000",
+    "website_link": "",
+    "twitter_link": "",
+    "discord_link": ""
   },
   {
     "name": "LMWO LTC",
     "logo": "https://cdn.coinranking.com/CHWP5dua0/D-Zshgcz_400x400.PNG?size=30x30",
     "ticker": "lmwo",
-    "totalSupply": "84000000"
+    "totalSupply": "84000000",
+    "website_link": "",
+    "twitter_link": "",
+    "discord_link": ""
   },
   {
     "name": "IOWA LTC",
     "logo": "https://cdn.coinranking.com/Re9ynHcu2/WhGxuIIN_400x400.PNG?size=30x30",
     "ticker": "iowa",
-    "totalSupply": "84000000"
+    "totalSupply": "84000000",
+    "website_link": "",
+    "twitter_link": "",
+    "discord_link": ""
   }
 ]
