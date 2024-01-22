@@ -133,5 +133,14 @@
     "website_link": "",
     "twitter_link": "",
     "discord_link": ""
+  },
+  {
+    "name": "LABS",
+    "logo": "https://cdn.coinranking.com/Re9ynHcu2/WhGxuIIN_400x400.PNG?size=30x30",
+    "ticker": "labs",
+    "totalSupply": "84,000,000",
+    "website_link": "",
+    "twitter_link": "",
+    "discord_link": ""
   }
 ]
