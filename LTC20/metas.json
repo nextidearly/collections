@@ -1,5 +1,14 @@
 [
   {
+    "name": "ELKS",
+    "logo": "https://cdn.coinranking.com/FKUjcGj6-/evlv-brc.svg?size=34x34",
+    "ticker": "elks",
+    "totalSupply": "21,000,000,000,000",
+    "website_link": "",
+    "twitter_link": "",
+    "discord_link": ""
+  },
+  {
     "name": "ILTC",
     "logo": "https://cdn.coinranking.com/rQdUpJdc3/rlPCBeWM_400x400.PNG?size=30x30",
     "ticker": "iltc",
@@ -130,15 +139,6 @@
     "logo": "https://cdn.coinranking.com/Re9ynHcu2/WhGxuIIN_400x400.PNG?size=30x30",
     "ticker": "iowa",
     "totalSupply": "84,000,000",
-    "website_link": "",
-    "twitter_link": "",
-    "discord_link": ""
-  },
-  {
-    "name": "ELKS",
-    "logo": "https://cdn.coinranking.com/FKUjcGj6-/evlv-brc.svg?size=34x34",
-    "ticker": "elks",
-    "totalSupply": "21,000,000,000,000",
     "website_link": "",
     "twitter_link": "",
     "discord_link": ""
