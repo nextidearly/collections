@@ -10,7 +10,7 @@
     "twitter_link": "https://twitter.com/OnlyWithCrypto",
     "royalty_address": ""
   },
-{
+  {
     "name": "LiteScapes",
     "inscription_icon": "d519b0031301ad7aa428cc4bc577ed5379ad870b7504a55e8341b252234db3a0i0", 
     "supply": "113",
@@ -19,7 +19,7 @@
     "twitter_link": "https://twitter.com/BitScapesOrd",
     "discord_link": "",
     "website_link": ""
-}
+  },
   {
     "description": "Lite Pandas - 1000 pixelated pandas on Litecoin Ordinals!",
     "inscription_icon": "cb42f3eeb3e3be91614730a7eecbf8d25d27a11a079d5c0ed5c6059a44c42de0i0",
