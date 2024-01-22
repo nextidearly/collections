@@ -9,6 +9,15 @@
     "discord_link": ""
   },
   {
+    "name": "LITS",
+    "logo": "https://cdn.coinranking.com/BUvPxmc9o/ltcnew.svg?size=34x34",
+    "ticker": "lits",
+    "totalSupply": "84,000,000",
+    "website_link": "",
+    "twitter_link": "",
+    "discord_link": ""
+  },
+  {
     "name": "ILTC",
     "logo": "https://cdn.coinranking.com/rQdUpJdc3/rlPCBeWM_400x400.PNG?size=30x30",
     "ticker": "iltc",
