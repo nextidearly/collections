@@ -18,6 +18,24 @@
     "discord_link": ""
   },
   {
+    "name": "MEME",
+    "logo": "https://cdn.coinranking.com/xJLXeCg3J/ZnW5aagO_400x400.png?size=34x34",
+    "ticker": "meme",
+    "totalSupply": "84,000,000",
+    "website_link": "",
+    "twitter_link": "",
+    "discord_link": ""
+  },
+  {
+    "name": "PEPE",
+    "logo": "https://cdn.coinranking.com/OPXt-6gZw/HhczkhfU_400x400.png?size=34x34",
+    "ticker": "pepe",
+    "totalSupply": "84,000,000",
+    "website_link": "",
+    "twitter_link": "",
+    "discord_link": ""
+  },
+  {
     "name": "LABS",
     "logo": "https://cdn.discordapp.com/avatars/438023122189418497/03923a24829983c24e9092a9fd326a36.webp?size=160",
     "ticker": "labs",
