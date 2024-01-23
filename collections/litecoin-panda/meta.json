@@ -1,10 +1,10 @@
 {
   "description": "Lite Pandas - 1000 pixelated pandas on Litecoin Ordinals!",
   "inscription_icon": "cb42f3eeb3e3be91614730a7eecbf8d25d27a11a079d5c0ed5c6059a44c42de0i0",
-  "name": "Litecoin Pandas",
+  "name": "Lite Pandas",
   "slug": "litecoin-panda",
-  "supply": "9200",
-  "discord_link": "",
+  "supply": "1000",
+  "discord_link": "https://discord.com/invite/zWTKsW9r7m",
   "website_link": "",
   "twitter_link": "",
   "royalty_address": ""
