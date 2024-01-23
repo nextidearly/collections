@@ -9,10 +9,37 @@
     "discord_link": ""
   },
   {
+    "name": "LGEM",
+    "logo": "https://cdn.coinranking.com/nYQ0dKySBd/lendoit.svg?size=34x34",
+    "ticker": "lgem",
+    "totalSupply": "52,500,000",
+    "website_link": "",
+    "twitter_link": "",
+    "discord_link": ""
+  },
+  {
+    "name": "RATS",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/28452.png",
+    "ticker": "rats",
+    "totalSupply": "21,000,000",
+    "website_link": "",
+    "twitter_link": "",
+    "discord_link": ""
+  },
+  {
     "name": "LITS",
     "logo": "https://cdn.coinranking.com/BUvPxmc9o/ltcnew.svg?size=34x34",
     "ticker": "lits",
     "totalSupply": "84,000,000",
+    "website_link": "",
+    "twitter_link": "",
+    "discord_link": ""
+  },
+  {
+    "name": "8888",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/28488.png",
+    "ticker": "8888",
+    "totalSupply": "88,888,888",
     "website_link": "",
     "twitter_link": "",
     "discord_link": ""
@@ -147,7 +174,7 @@
     "name": "LNFT",
     "logo": "https://cdn.coinranking.com/nYQ0dKySBd/lendoit.svg?size=34x34",
     "ticker": "lnft",
-    "totalSupply": "21,000,000",
+    "totalSupply": "84,000,000",
     "website_link": "",
     "twitter_link": "",
     "discord_link": ""
@@ -166,6 +193,24 @@
     "logo": "https://cdn.coinranking.com/CHWP5dua0/D-Zshgcz_400x400.PNG?size=30x30",
     "ticker": "lmwo",
     "totalSupply": "84,000,000",
+    "website_link": "",
+    "twitter_link": "",
+    "discord_link": ""
+  },
+  {
+    "name": "GOLD",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5705.png",
+    "ticker": "gold",
+    "totalSupply": "84,000,000",
+    "website_link": "",
+    "twitter_link": "",
+    "discord_link": ""
+  },
+  {
+    "name": "PUNK",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/11226.png",
+    "ticker": "punk",
+    "totalSupply": "10,000",
     "website_link": "",
     "twitter_link": "",
     "discord_link": ""
