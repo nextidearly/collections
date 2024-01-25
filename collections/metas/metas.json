@@ -2,6 +2,17 @@
   {
     "description": "LTC Hamsters is a unique series of ordinals that captures the adorable fusion between hamsters and the Litecoin cryptocurrency. Hosted on the Litecoin blockchain, this collection offers collectible and visually appealing pieces.",
     "inscription_icon": "399965d298dd0c5fa91ed718b38a9afe1b4b0cc7646f52ebc3ac69d6daa8062ai0",
+    "name": "sub 1k",
+    "slug": "sub-1k",
+    "supply": "118",
+    "discord_link": "",
+    "website_link": "",
+    "twitter_link": "https://twitter.com/OnlyWithCrypto",
+    "royalty_address": ""
+  },
+  {
+    "description": "LTC Hamsters is a unique series of ordinals that captures the adorable fusion between hamsters and the Litecoin cryptocurrency. Hosted on the Litecoin blockchain, this collection offers collectible and visually appealing pieces.",
+    "inscription_icon": "399965d298dd0c5fa91ed718b38a9afe1b4b0cc7646f52ebc3ac69d6daa8062ai0",
     "name": "LTC Hamsters",
     "slug": "ltc-hamster",
     "supply": "118",
