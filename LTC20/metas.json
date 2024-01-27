@@ -9,6 +9,15 @@
     "discord_link": ""
   },
   {
+    "name": "1337",
+    "logo": "https://cdn.discordapp.com/attachments/1111304069466816573/1200812087090368602/image.png?ex=65c78a67&is=65b51567&hm=bd9555fbedc6c57c01bcfb3c4a64a0ac145fa362faf0c53bf66db0ddb6fa7366&",
+    "ticker": "1337",
+    "totalSupply": "13,371,337",
+    "website_link": "https://alphascribe.io",
+    "twitter_link": "https://twitter.com/AlphaScribe1337",
+    "discord_link": "https://discord.gg/BXjeQtcc2t"
+  },
+  {
     "name": "LGEM",
     "logo": "https://cdn.coinranking.com/nYQ0dKySBd/lendoit.svg?size=34x34",
     "ticker": "lgem",
