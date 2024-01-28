@@ -1,1 +1,8 @@
-
+{
+  "name": "SUB 10K",
+  "slug": "sub-10k",
+  "supply": "10000",
+  "description": "Firs 10000 Litecoin inscriptions",
+  "twitter_link": "",
+  "inscription_icon": "66aee5c1d50b4c8b0b6c256f0eb7654585eea413d1b6615544ad65b1c663581fi0"
+}
