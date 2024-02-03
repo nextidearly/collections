@@ -22,15 +22,14 @@
     "royalty_address": ""
   },
   {
-    "description": "LTC Hamsters is a unique series of ordinals that captures the adorable fusion between hamsters and the Litecoin cryptocurrency. Hosted on the Litecoin blockchain, this collection offers collectible and visually appealing pieces.",
-    "inscription_icon": "399965d298dd0c5fa91ed718b38a9afe1b4b0cc7646f52ebc3ac69d6daa8062ai0",
-    "name": "LTC Hamsters",
-    "slug": "ltc-hamster",
-    "supply": "118",
-    "discord_link": "",
-    "website_link": "",
-    "twitter_link": "https://twitter.com/OnlyWithCrypto",
-    "royalty_address": ""
+    "description": "Litecoin Moonbirds are a collection of 9200 early Litecoin Ordinals crated by LitecoinLabs",
+    "discord_link": "https://discord.com/invite/litecoinlabs",
+    "inscription_icon": "13f9e646cf1ab2a3679420a49dbaf7aff0a1fd3a47f274b7202664777b589790i0",
+    "name": "Litecoin Moonbirds",
+    "slug": "litecoin-moonbirds",
+    "supply": "9200",
+    "website_link": "https://litecoinpunks.xyz",
+    "twitter_link": "https://twitter.com/ltcmoonbird"
   },
 {
   "name": "SadFrogLTC",
@@ -53,6 +52,14 @@
     "twitter_link": "https://twitter.com/OnlyWithCrypto",
     "royalty_address": ""
   },
+{
+  "name": "Litecoin GIF",
+  "slug": "litecoin-gif",
+  "supply": "129",
+  "description": "Litecoin GIF, an exclusive collection of Ordinals that captures the unique essence of Litecoin through captivating GIF files.",
+  "twitter_link": "https://twitter.com/OnlyWithCrypto",
+  "inscription_icon": "fa466f51cdb7cd6486df41c8900a582648d21c1d303bad4b81c7047c7895e43di0"
+},
 {
     "name": "LiteScapes",
     "inscription_icon": "d519b0031301ad7aa428cc4bc577ed5379ad870b7504a55e8341b252234db3a0i0", 
@@ -85,14 +92,15 @@
     "website_link": ""
   },
   {
-    "description": "Litecoin Moonbirds are a collection of 9200 early Litecoin Ordinals crated by LitecoinLabs",
-    "discord_link": "https://discord.com/invite/litecoinlabs",
-    "inscription_icon": "13f9e646cf1ab2a3679420a49dbaf7aff0a1fd3a47f274b7202664777b589790i0",
-    "name": "Litecoin Moonbirds",
-    "slug": "litecoin-moonbirds",
-    "supply": "9200",
-    "website_link": "https://litecoinpunks.xyz",
-    "twitter_link": "https://twitter.com/ltcmoonbird"
+    "description": "LTC Hamsters is a unique series of ordinals that captures the adorable fusion between hamsters and the Litecoin cryptocurrency. Hosted on the Litecoin blockchain, this collection offers collectible and visually appealing pieces.",
+    "inscription_icon": "399965d298dd0c5fa91ed718b38a9afe1b4b0cc7646f52ebc3ac69d6daa8062ai0",
+    "name": "LTC Hamsters",
+    "slug": "ltc-hamster",
+    "supply": "118",
+    "discord_link": "",
+    "website_link": "",
+    "twitter_link": "https://twitter.com/OnlyWithCrypto",
+    "royalty_address": ""
   },
   {
     "description": " Only 84 unique and original Armored patches. In the style of embroidered military patches, proudly wear Litecoin's colors all over the world.",
