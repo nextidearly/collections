@@ -1,17 +1,12 @@
 [
   {
-    "id": "879335913e2ede9d1f972f3deb579b3bec88ce7055d3e0015ee900fa49869ac3i0",
-    "inscription": 51160,
+    "id": "879335913e2ede9d1f972f3deb579b3bec88ce7055d3e0015ee900fa49869ac3i0"
+    "inscription": 51160
     "meta": {
-      "name": "Sad Frog #1",
-      "status": "Sad",
-      "rank": 84,
-      "attributes": [
-        {
-          "trait_type": "Weapon",
-          "value": "Knife",
-          "status": "",
-          "percent": "21.4%"
+      "name": "Sad Frog #1"
+      "status": "Sad"
+      "rank": 84
+      "attributes":
         },
         {
           "trait_type": "Head",
