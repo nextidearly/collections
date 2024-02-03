@@ -1,12 +1,17 @@
 [
   {
-    "id": "879335913e2ede9d1f972f3deb579b3bec88ce7055d3e0015ee900fa49869ac3i0"
-    "inscription": 51160
+    "id": "879335913e2ede9d1f972f3deb579b3bec88ce7055d3e0015ee900fa49869ac3i0",
+    "inscription": 51160,
     "meta": {
-      "name": "Sad Frog #1"
-      "status": "Sad"
-      "rank": 84
-      "attributes":
+      "name": "Sad Frog #1",
+      "status": "Sad",
+      "rank": 84,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Knife",
+          "status": "",
+          "percent": "21.4%"
         },
         {
           "trait_type": "Head",
@@ -31,6 +36,10 @@
           "value": "Nothing",
           "status": "",
           "percent": "10.7%"
+        },
+
+      ]
+    }
   },
   {
     "id": "7372e0646e792688f1bb09b8939e17853973ba1bf3b4758a5c169cb4f5216232i0",
@@ -70,6 +79,10 @@
           "status": "",
           "percent": "14.28%"
         },
+
+      ]
+    }
+  },
   {
     "id": "8fccfab51489b8de8cad0fde0fd1537e9909cd6b6d48b32319f5246a5c52cab9i0",
     "inscription": 51437,
@@ -109,6 +122,9 @@
           "percent": "22.62%"
         },
 
+      ]
+    }
+  },
   {
     "id": "b88e47304a45ca5213072393b61c25df5eed864528ba18e8045f203216a04e87i0",
     "inscription": 51405,
@@ -147,6 +163,10 @@
           "status": "",
           "percent": "15.47%"
         },
+
+      ]
+    }
+  },
   {
     "id": "aa3e2e98b0f0bfaac467edf81059334380eb7a6e1c15d3585336f72e82730921i0",
     "inscription": 51413,
@@ -185,6 +205,10 @@
           "status": "",
           "percent": "13.1%"
         },
+
+      ]
+    }
+  },
   {
     "id": "fc2f283af3dc17afa65ebb42c33508085fc1c686c1d4a9dcb7cfe5d53b717860i0",
     "inscription": 51447,
@@ -223,6 +247,10 @@
           "status": "",
           "percent": "11.9%"
         },
+
+      ]
+    }
+  },
   {
     "id": "13f804e8fc194703ccc5d99c0b3af8cae7f791537c2feba53c136e001967c0dfi0",
     "inscription": 51465,
@@ -3508,6 +3536,3551 @@
           "status": "",
           "percent": "13.1%"
         },
+
+      ]
+    }
+  }
+
+
+]
+[
+  {
+    "id": "879335913e2ede9d1f972f3deb579b3bec88ce7055d3e0015ee900fa49869ac3i0",
+    "inscription": 51160,
+    "meta": {
+      "name": "Sad Frog #1",
+      "status": "Sad",
+      "rank": 84,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Knife",
+          "status": "",
+          "percent": "21.4%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Nothing",
+          "status": "",
+          "percent": "2.3%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Nothing",
+          "status": "",
+          "percent": "4.76%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Nothing",
+          "status": "",
+          "percent": "2.3%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Nothing",
+          "status": "",
+          "percent": "10.7%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "7372e0646e792688f1bb09b8939e17853973ba1bf3b4758a5c169cb4f5216232i0",
+    "inscription": 51378,
+    "meta": {
+      "name": "Sad Frog #2",
+      "status": "Sad",
+      "rank": 83,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Knife",
+          "status": "",
+          "percent": "21.4%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Headphones - Pink",
+          "status": "",
+          "percent": "7.1%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Shirt - Light Blue",
+          "status": "",
+          "percent": "16.66%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "White",
+          "status": "",
+          "percent": "39.3%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Purple",
+          "status": "",
+          "percent": "14.28%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "8fccfab51489b8de8cad0fde0fd1537e9909cd6b6d48b32319f5246a5c52cab9i0",
+    "inscription": 51437,
+    "meta": {
+      "name": "Sad Frog #3",
+      "status": "Sad",
+      "rank": 82,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Long Sword",
+          "status": "",
+          "percent": "19.05%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Baseball Hat (Backwards) - Red",
+          "status": "",
+          "percent": "8.33%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Shirt - Yellow",
+          "status": "",
+          "percent": "16.66%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Blue",
+          "status": "",
+          "percent": "16.66%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Brown - with Clasp",
+          "status": "",
+          "percent": "22.62%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "b88e47304a45ca5213072393b61c25df5eed864528ba18e8045f203216a04e87i0",
+    "inscription": 51405,
+    "meta": {
+      "name": "Sad Frog #4",
+      "status": "Sad",
+      "rank": 81,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Medieval Flail",
+          "status": "",
+          "percent": "21.42%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Crown",
+          "status": "",
+          "percent": "10.7%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Shirt - Green",
+          "status": "",
+          "percent": "16.66%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Purple",
+          "status": "",
+          "percent": "15.48%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Grey - with Clasp",
+          "status": "",
+          "percent": "15.47%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "aa3e2e98b0f0bfaac467edf81059334380eb7a6e1c15d3585336f72e82730921i0",
+    "inscription": 51413,
+    "meta": {
+      "name": "Sad Frog #5",
+      "status": "Sad",
+      "rank": 80,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "God Sword",
+          "status": "",
+          "percent": "16.66%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Crown"",
+          "status": "",
+          "percent": "10.7%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Pajama - Pink",
+          "status": "",
+          "percent": "2.38%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "White",
+          "status": "",
+          "percent": "39.3%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Red",
+          "status": "",
+          "percent": "13.1%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "fc2f283af3dc17afa65ebb42c33508085fc1c686c1d4a9dcb7cfe5d53b717860i0",
+    "inscription": 51447,
+    "meta": {
+      "name": "Sad Frog #6",
+      "status": "Sad",
+      "rank": 79,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Scimitar",
+          "status": "",
+          "percent": "20.24%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Baseball Hat - Grey",
+          "status": "",
+          "percent": "13.1%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Shirt - Dark Blue",
+          "status": "",
+          "percent": "15.5%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "White",
+          "status": "",
+          "percent": "39.3%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Black",
+          "status": "",
+          "percent": "11.9%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "13f804e8fc194703ccc5d99c0b3af8cae7f791537c2feba53c136e001967c0dfi0",
+    "inscription": 51465,
+    "meta": {
+      "name": "Sad Frog #7",
+      "status": "Sad",
+      "rank": 78,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Medieval Flail",
+          "status": "",
+          "percent": "21.42%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Cowboy Hat",
+          "status": "",
+          "percent": "8.33%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Pajama - Purple",
+          "status": "",
+          "percent": "3.57%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Green",
+          "status": "",
+          "percent": "5.95%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Brown - with Clasp",
+          "status": "",
+          "percent": "22.62%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "63d08a5692b297971494662da6054a246b0613d3aa70437c9b5a127e53706062i0",
+    "inscription": 51479,
+    "meta": {
+      "name": "Sad Frog #8",
+      "status": "Sad",
+      "rank": 77,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Knife",
+          "status": "",
+          "percent": "21.4%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Party",
+          "status": "",
+          "percent": "9.52%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Gi - White ",
+          "status": "",
+          "percent": "13.1%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Blue",
+          "status": "",
+          "percent": "16.66%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Brown - with Clasp",
+          "status": "",
+          "percent": "22.62%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "8f07bce2861e4c8685bfb26ebfeaab67090e410f644a5f97af494826de090d83i0",
+    "inscription": 51493,
+    "meta": {
+      "name": "Sad Frog #9",
+      "status": "Sad",
+      "rank": 76,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Scimitar",
+          "status": "",
+          "percent": "20.24%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Rice Hat",
+          "status": "",
+          "percent": "8.33%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Shirt - Green",
+          "status": "",
+          "percent": "16.66%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Green",
+          "status": "",
+          "percent": "5.95%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Brown - with Clasp",
+          "status": "",
+          "percent": "22.62%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "75df3adda5768c63b2867ad51267693f08812070b9ede69235357f99a8fac1f8i0",
+    "inscription": 51522,
+    "meta": {
+      "name": "Sad Frog #10",
+      "status": "Sad",
+      "rank": 75,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Long Sword",
+          "status": "",
+          "percent": "19.05%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Baseball Hat - Purple",
+          "status": "",
+          "percent": "8.33%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Pajama - Pink",
+          "status": "",
+          "percent": "2.38%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Purple",
+          "status": "",
+          "percent": "15.48%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Grey - with Clasp",
+          "status": "",
+          "percent": "15.47%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "84b7784c2efc2d4a3a3ab740f303f597633e3be064b159a43cf2890c2a71af83i0",
+    "inscription": 51538,
+    "meta": {
+      "name": "Sad Frog #11",
+      "status": "Sad",
+      "rank": 74,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Knife",
+          "status": "",
+          "percent": "21.4%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Top Hat",
+          "status": "",
+          "percent": "6%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Shirt - Dark Blue",
+          "status": "",
+          "percent": "15.5%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "White",
+          "status": "",
+          "percent": "39.3%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Red",
+          "status": "",
+          "percent": "13.1%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "14f9b923e6cce49d336c68c52f562db14dcbd80f44507ceeb28cda1a61f4ef47i0",
+    "inscription": 51553,
+    "meta": {
+      "name": "Sad Frog #12",
+      "status": "Sad",
+      "rank": 73,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "God Sword",
+          "status": "",
+          "percent": "16.66%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Rice Hat",
+          "status": "",
+          "percent": "8.33%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Gi - White",
+          "status": "",
+          "percent": "13.1%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Black",
+          "status": "",
+          "percent": "13.1%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Green",
+          "status": "",
+          "percent": "14.28%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "8a325b6e31fc85ef861818f2480b053cf594f0f99fb1456ffb781a77ea67b377i0",
+    "inscription": 51561,
+    "meta": {
+      "name": "Sad Frog #13",
+      "status": "Sad",
+      "rank": 72,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Long Sword",
+          "status": "",
+          "percent": "19.05%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Cowboy Hat",
+          "status": "",
+          "percent": "8.33%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Nothing",
+          "status": "",
+          "percent": "4.76%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Green",
+          "status": "",
+          "percent": "5.95%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Brown - with Clasp",
+          "status": "",
+          "percent": "22.62%"
+        },
+
+      ]
+    }
+  },
+
+  {
+    "id": "ee414e0b6ceb5ba7d2ac127280ca4b8bd3f51146a029465dd4e2ad784effe228i0",
+    "inscription": 51572,
+    "meta": {
+      "name": "Sad Frog #14",
+      "status": "Sad",
+      "rank": 71,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Scimitar",
+          "status": "",
+          "percent": "20.24%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Baseball Hat (Backwards) - Red",
+          "status": "",
+          "percent": "8.33%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Pajama - Purple",
+          "status": "",
+          "percent": "3.57%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Nothing",
+          "status": "",
+          "percent": "2.3%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Nothing",
+          "status": "",
+          "percent": "10.7%"
+        },
+
+      ]
+    }
+  },
+
+  {
+    "id": "6c27857f29a510770baf93e67867fdf5922a3f47b867158736c5b2365d219b09i0",
+    "inscription": 51579,
+    "meta": {
+      "name": "Sad Frog #15",
+      "status": "Sad",
+      "rank": 70,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Medieval Flail",
+          "status": "",
+          "percent": "21.42%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Baseball Hat - Grey",
+          "status": "",
+          "percent": "13.1%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Green",
+          "status": "",
+          "percent": "1.19%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Blue",
+          "status": "",
+          "percent": "16.66%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Brown - with Clasp",
+          "status": "",
+          "percent": "22.62%"
+        },
+
+      ]
+    }
+  },
+
+  {
+    "id": "e7c37b2585a21efd1686d14fc9baa97c00a2caa5773bd7492a0a211e887923cci0",
+    "inscription": 51592,
+    "meta": {
+      "name": "Sad Frog #16",
+      "status": "Sad",
+      "rank": 69,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Medieval Flail",
+          "status": "",
+          "percent": "21.42%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Baseball Hat - Grey",
+          "status": "",
+          "percent": "13.1%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Shirt - Light Blue",
+          "status": "",
+          "percent": "16.66%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Blue",
+          "status": "",
+          "percent": "16.66%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Brown - with Clasp",
+          "status": "",
+          "percent": "22.62%"
+        },
+
+      ]
+    }
+  },
+
+  {
+    "id": "e5859dad974cf90229641e805cf774fdd8ce10130aeef05817987f58bdb950a7i0",
+    "inscription": 51616,
+    "meta": {
+      "name": "Sad Frog #17",
+      "status": "Sad",
+      "rank": 68,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Long Sword",
+          "status": "",
+          "percent": "19.05%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Sombrero",
+          "status": "",
+          "percent": "10.71%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Gi - White",
+          "status": "",
+          "percent": "13.1%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "White",
+          "status": "",
+          "percent": "39.3%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Black",
+          "status": "",
+          "percent": "11.9%"
+        },
+
+      ]
+    }
+  },
+
+  {
+    "id": "6d0292bb780368170b6c64dbb951abdc378f4e793583dae82a664a1373cadfcci0",
+    "inscription": 51624,
+    "meta": {
+      "name": "Sad Frog #18",
+      "status": "Sad",
+      "rank": 67,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Scimitar",
+          "status": "",
+          "percent": "20.24%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Party",
+          "status": "",
+          "percent": "9.52%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Shirt - Yellow",
+          "status": "",
+          "percent": "16.66%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "White",
+          "status": "",
+          "percent": "39.3%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Purple",
+          "status": "",
+          "percent": "14.28%"
+        },
+
+      ]
+    }
+  },
+
+  {
+    "id": "15744ef9ecf016b8d2096f282e645f38358d3b008fd173e4205a9575368f78c3i0",
+    "inscription": 51637,
+    "meta": {
+      "name": "Sad Frog #19",
+      "status": "Sad",
+      "rank": 66,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Scimitar",
+          "status": "",
+          "percent": "20.24%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Crown",
+          "status": "",
+          "percent": "10.7%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Pajama - Purple",
+          "status": "",
+          "percent": "3.57%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Purple",
+          "status": "",
+          "percent": "15.48%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Grey - with Clasp",
+          "status": "",
+          "percent": "15.47%"
+        },
+
+      ]
+    }
+  },
+
+  {
+    "id": "a3562b79f2fc89d320156d3f130fb05991ae52e297a8b2bed1dabc78a843b81bi0",
+    "inscription": 51659,
+    "meta": {
+      "name": "Sad Frog #20",
+      "status": "Sad",
+      "rank": 65,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Knife",
+          "status": "",
+          "percent": "21.4%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Baseball Hat - Grey",
+          "status": "",
+          "percent": "13.1%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Nothing",
+          "status": "",
+          "percent": "4.76%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Black",
+          "status": "",
+          "percent": "13.1%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Green",
+          "status": "",
+          "percent": "14.28%"
+        },
+
+      ]
+    }
+  },
+
+  {
+    "id": "0f2ee400582cbbddf2e162f60a7aef427fd494ff3646471617e2ef276ef956c5i0",
+    "inscription": 51679,
+    "meta": {
+      "name": "Sad Frog #21",
+      "status": "Sad",
+      "rank": 64,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "God Sword",
+          "status": "",
+          "percent": "16.66%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Headphones - Orange",
+          "status": "",
+          "percent": "7.1%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Shirt - Yellow",
+          "status": "",
+          "percent": "16.66%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Blue",
+          "status": "",
+          "percent": "16.66%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Brown - with Clasp",
+          "status": "",
+          "percent": "22.62%"
+        },
+
+      ]
+    }
+  },
+
+  {
+    "id": "b00e057c07ee91fede6d1b3dbbc40aa1bf6b9fcdb968e8d76d7b71297ea07257i0",
+    "inscription": 51713,
+    "meta": {
+      "name": "Sad Frog #22",
+      "status": "Sad",
+      "rank": 63,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Knife",
+          "status": "",
+          "percent": "21.4%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Top Hat",
+          "status": "",
+          "percent": "6%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Shirt - Dark Blue",
+          "status": "",
+          "percent": "15.5%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Blue",
+          "status": "",
+          "percent": "16.66%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Brown - with Clasp",
+          "status": "",
+          "percent": "22.62%"
+        },
+
+      ]
+    }
+  },
+
+  {
+    "id": "cfc7639c2cec5cd258cb5cd34b6e254882f7f3d9d98d7810dda7621546ccb56fi0",
+    "inscription": 51721,
+    "meta": {
+      "name": "Sad Frog #23",
+      "status": "Sad",
+      "rank": 62,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Medieval Flail",
+          "status": "",
+          "percent": "21.42%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Rice Hat",
+          "status": "",
+          "percent": "8.33%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Shirt - Green",
+          "status": "",
+          "percent": "16.66%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Purple",
+          "status": "",
+          "percent": "15.48%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Grey - with Clasp",
+          "status": "",
+          "percent": "15.47%"
+        },
+
+      ]
+    }
+  },
+
+  {
+    "id": "0a92d584473639e2ce8d6f0fad2b2efb327c985015d34be6fb0be436527166a7i0",
+    "inscription": 51759,
+    "meta": {
+      "name": "Sad Frog #24",
+      "status": "Sad",
+      "rank": 61,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Medieval Flail",
+          "status": "",
+          "percent": "21.42%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Crown",
+          "status": "",
+          "percent": "10.7%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Shirt - Dark Blue",
+          "status": "",
+          "percent": "15.5%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "White",
+          "status": "",
+          "percent": "39.3%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Red",
+          "status": "",
+          "percent": "13.1%"
+        },
+
+      ]
+    }
+  },
+
+  {
+    "id": "05b201e4632107c80b5f24125bd1586b2b473861e0e376d8b4b92ed2569b8d5ei0",
+    "inscription": 51777,
+    "meta": {
+      "name": "Sad Frog #25",
+      "status": "Sad",
+      "rank": 60,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Scimitar",
+          "status": "",
+          "percent": "20.24%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Baseball Hat - Purple",
+          "status": "",
+          "percent": "8.33%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Gi - White",
+          "status": "",
+          "percent": "13.1%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Black",
+          "status": "",
+          "percent": "13.1%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Green",
+          "status": "",
+          "percent": "14.28%"
+        },
+
+      ]
+    }
+  },
+
+  {
+    "id": "f4ed1e5aac35120ac1069ce0c9588ac8c15aec401ca56591dd72a93ed23e229ei0",
+    "inscription": 51797,
+    "meta": {
+      "name": "Sad Frog #26",
+      "status": "Sad",
+      "rank": 59,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Scimitar",
+          "status": "",
+          "percent": "20.24%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Baseball Hat - Grey",
+          "status": "",
+          "percent": "13.1%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Shirt - Light Blue",
+          "status": "",
+          "percent": "16.66%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "White",
+          "status": "",
+          "percent": "39.3%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Black",
+          "status": "",
+          "percent": "11.9%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "99b6a7b71a33d29cded11fd1ee6376f2651656f9f29cd91a2cf0e9696cbfbcf6i0",
+    "inscription": 51809,
+    "meta": {
+      "name": "Sad Frog #27",
+      "status": "Sad",
+      "rank": 58,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Long Sword",
+          "status": "",
+          "percent": "19.05%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Sombrero",
+          "status": "",
+          "percent": "10.71%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Shirt - Yellow",
+          "status": "",
+          "percent": "16.66%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "White",
+          "status": "",
+          "percent": "39.3%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Purple",
+          "status": "",
+          "percent": "14.28%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "082e60c1e83b8ff14c9c2d37ed324ce98edb0b0334fe7ccf1dc37a738dcc9f41i0",
+    "inscription": 51824,
+    "meta": {
+      "name": "Sad Frog #28",
+      "status": "Sad",
+      "rank": 57,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Long Sword",
+          "status": "",
+          "percent": "19.05%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Cowboy Hat",
+          "status": "",
+          "percent": "8.33%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Gi - Red",
+          "status": "",
+          "percent": "6%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "White",
+          "status": "",
+          "percent": "39.3%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Black",
+          "status": "",
+          "percent": "11.9%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "c4de1ecba903dd65730bdfca339ead9f620caf5196f7f76da39509e7ae26163ci0",
+    "inscription": 51837,
+    "meta": {
+      "name": "Sad Frog #29",
+      "status": "Sad",
+      "rank": 56,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Knife",
+          "status": "",
+          "percent": "21.4%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Party",
+          "status": "",
+          "percent": "9.52%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Gi - White",
+          "status": "",
+          "percent": "13.1%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "White",
+          "status": "",
+          "percent": "39.3%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Purple",
+          "status": "",
+          "percent": "14.28%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "01c4bcf6c86a148c3fae1fc72258debed9ba90676da95b9330cdc25d6ca81cafi0",
+    "inscription": 51870,
+    "meta": {
+      "name": "Sad Frog #30",
+      "status": "Sad",
+      "rank": 55,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Medieval Flail",
+          "status": "",
+          "percent": "21.42%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Sombrero",
+          "status": "",
+          "percent": "10.71%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Shirt - Yellow",
+          "status": "",
+          "percent": "16.66%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "White",
+          "status": "",
+          "percent": "39.3%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Purple",
+          "status": "",
+          "percent": "14.28%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "6f2048e758f18282ee0129ecd0163ce5da34d24cd3938e661524d23fafd81628i0",
+    "inscription": 51979,
+    "meta": {
+      "name": "Sad Frog #31",
+      "status": "Sad",
+      "rank": 54,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "God Sword",
+          "status": "",
+          "percent": "16.66"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Baseball Hat - Grey",
+          "status": "",
+          "percent": "13.1%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Shirt - Green",
+          "status": "",
+          "percent": "16.66%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Green",
+          "status": "",
+          "percent": "5.95%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Brown - with Clasp",
+          "status": "",
+          "percent": "22.62%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "c4b9a95436325f839836b9ffa8ccb5bc7ea1b65cb8cc089500563f10fa964bdbi0",
+    "inscription": 52038,
+    "meta": {
+      "name": "Sad Frog #32",
+      "status": "Sad",
+      "rank": 53,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Scimitar",
+          "status": "",
+          "percent": "20.24%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Baseball Hat - Purple",
+          "status": "",
+          "percent": "8.33%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Shirt - Dark Blue",
+          "status": "",
+          "percent": "15.5%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Green",
+          "status": "",
+          "percent": "5.95%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Brown - with Clasp",
+          "status": "",
+          "percent": "22.62%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "105df76019d1b67a308c11bfcf89d5d69e033d686880ff3e782495a47d60ac78i0",
+    "inscription": 52110,
+    "meta": {
+      "name": "Sad Frog #33",
+      "status": "Sad",
+      "rank": 52,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Long Sword",
+          "status": "",
+          "percent": "19.05%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Top Hat",
+          "status": "",
+          "percent": "6%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Shirt - Light Blue",
+          "status": "",
+          "percent": "16.66%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Blue",
+          "status": "",
+          "percent": "16.66%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Brown - with Clasp",
+          "status": "",
+          "percent": "22.62%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "fd87fbe1684e8c2d0816af39b201ceac693d1240e456dc28edfda8eada38262ci0",
+    "inscription": 52141,
+    "meta": {
+      "name": "Sad Frog #34",
+      "status": "Sad",
+      "rank": 51,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Long Sword",
+          "status": "",
+          "percent": "19.05%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Nothing",
+          "status": "",
+          "percent": "2.3%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Nothing",
+          "status": "",
+          "percent": "4.76%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Blue",
+          "status": "",
+          "percent": "16.66%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Brown - with Clasp",
+          "status": "",
+          "percent": "22.62%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "60e27c28d150fcec50ca366ca55fc64779673e6639999f250334cafa3fa9b627i0",
+    "inscription": 52164,
+    "meta": {
+      "name": "Sad Frog #35",
+      "status": "Sad",
+      "rank": 50,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Knife",
+          "status": "",
+          "percent": "21.4%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Crown",
+          "status": "",
+          "percent": "10.7%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Gi - Red",
+          "status": "",
+          "percent": "6%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Purple",
+          "status": "",
+          "percent": "15.48%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Grey - with Clasp",
+          "status": "",
+          "percent": "15.47%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "b21ff05f277e66364cacc4973104c096ac457eb5fae07cd7ed5d6bfb3f1228a1i0",
+    "inscription": 52207,
+    "meta": {
+      "name": "Sad Frog #36",
+      "status": "Sad",
+      "rank": 49,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Medieval Flail",
+          "status": "",
+          "percent": "21.42%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Baseball Hat (Backwards) - Red",
+          "status": "",
+          "percent": "8.33%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Gi - White",
+          "status": "",
+          "percent": "13.1%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Purple",
+          "status": "",
+          "percent": "15.48%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Grey - with Clasp",
+          "status": "",
+          "percent": "15.47%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "a5b53020185c0f2809334a5e46b3250132346f8697731a388be34a485508c2e7i0",
+    "inscription": 52222,
+    "meta": {
+      "name": "Sad Frog #37",
+      "status": "Sad",
+      "rank": 48,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "God Sword",
+          "status": "",
+          "percent": "16.66%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Headphones - Pink",
+          "status": "",
+          "percent": "7.1%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Shirt - Light Blue",
+          "status": "",
+          "percent": "16.66%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "White",
+          "status": "",
+          "percent": "39.3%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Red",
+          "status": "",
+          "percent": "13.1%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "06a57e8e36a88141d8506b1fe769c4a72639f6cd99acbd1a3a5c9c172e2a4115i0",
+    "inscription": 52262,
+    "meta": {
+      "name": "Sad Frog #38",
+      "status": "Sad",
+      "rank": 47,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Scimitar",
+          "status": "",
+          "percent": "20.24%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Headphones - Orange",
+          "status": "",
+          "percent": "7.1%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Shirt - Yellow",
+          "status": "",
+          "percent": "16.66%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Shorts - Orange",
+          "status": "",
+          "percent": "7.14%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Nothing",
+          "status": "",
+          "percent": "10.7%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "7afdc023ab33a5e3f698c0df688b344c123d670a63de542cb23e90455a1809d2i0",
+    "inscription": 52267,
+    "meta": {
+      "name": "Sad Frog #39",
+      "status": "Sad",
+      "rank": 46,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Long Sword",
+          "status": "",
+          "percent": "19.05%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Rice Hat",
+          "status": "",
+          "percent": "8.33%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Shirt - Green",
+          "status": "",
+          "percent": "16.66%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Blue",
+          "status": "",
+          "percent": "16.66%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Brown - with Clasp",
+          "status": "",
+          "percent": "22.62%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "dba0dfb699e5f2af4964f423e54fbbd0ab1ba2003183f4863480a254f3932903i0",
+    "inscription": 52304,
+    "meta": {
+      "name": "Sad Frog #40",
+      "status": "Sad",
+      "rank": 45,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Knife",
+          "status": "",
+          "percent": "21.4%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Party"",
+          "status": "",
+          "percent": "9.52%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Shirt - Dark Blue",
+          "status": "",
+          "percent": "15.5%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Purple",
+          "status": "",
+          "percent": "15.48%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Grey - with Clasp",
+          "status": "",
+          "percent": "15.47%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "b7a60c576726cefade737821476df4f2380144449c3cc4c5cd49dfbc22666d3ei0",
+    "inscription": 52344,
+    "meta": {
+      "name": "Sad Frog #41",
+      "status": "Sad",
+      "rank": 44,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Medieval Flail",
+          "status": "",
+          "percent": "21.42%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Cowboy Hat",
+          "status": "",
+          "percent": "8.33%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Gi - Red",
+          "status": "",
+          "percent": "6%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "White",
+          "status": "",
+          "percent": "39.3%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Red",
+          "status": "",
+          "percent": "13.1%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "06272d98eda76b4eddf47ee27110d23e83021d01287407dbdb990657afb48a81i0",
+    "inscription": 52375,
+    "meta": {
+      "name": "Sad Frog #42",
+      "status": "Sad",
+      "rank": 43,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "God Sword",
+          "status": "",
+          "percent": "16.66%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Sombrero",
+          "status": "",
+          "percent": "10.71%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Shirt - Light Blue",
+          "status": "",
+          "percent": "16.66%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Black",
+          "status": "",
+          "percent": "13.1%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Green",
+          "status": "",
+          "percent": "14.28%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "85d9290ee413b1fcabbf8bbaa7e6dbbca2a5df48d034165a9ef5c8077dc0f45di0",
+    "inscription": 52388,
+    "meta": {
+      "name": "Sad Frog #43",
+      "status": "Sad",
+      "rank": 42,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Scimitar",
+          "status": "",
+          "percent": "20.24%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Baseball Hat - Grey",
+          "status": "",
+          "percent": "13.1%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Shirt - Yellow",
+          "status": "",
+          "percent": "16.66%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "White",
+          "status": "",
+          "percent": "39.3%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Black",
+          "status": "",
+          "percent": "11.9%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "aae8a165fe273bef1be506b7be18d496ab11dae417a4d7156f8ceb98fd5d3710i0",
+    "inscription": 52424,
+    "meta": {
+      "name": "Sad Frog #44",
+      "status": "Sad",
+      "rank":41,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Long Sword",
+          "status": "",
+          "percent": "19.05%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Baseball Hat - Purple",
+          "status": "",
+          "percent": "8.33%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Shirt - Green",
+          "status": "",
+          "percent": "16.66%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "White",
+          "status": "",
+          "percent": "39.3%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Purple",
+          "status": "",
+          "percent": "14.28%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "686002f8f639a169ca2bdff10b515d9424f4b5093fd97c964fa7a8b835b9fc90i0",
+    "inscription": 52448,
+    "meta": {
+      "name": "Sad Frog #45",
+      "status": "Sad",
+      "rank": 40,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Knife",
+          "status": "",
+          "percent": "21.4%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Headphones - Pink",
+          "status": "",
+          "percent": "7.1%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Shirt - Light Blue",
+          "status": "",
+          "percent": "16.66%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Purple",
+          "status": "",
+          "percent": "15.48%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Grey - with Clasp",
+          "status": "",
+          "percent": "15.47%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "74d6ad943a7421f42235db03e61ac7022f50ef5ae60cd6d20f5d8d8bfc3bc8fdi0",
+    "inscription": 52490,
+    "meta": {
+      "name": "Sad Frog #46",
+      "status": "Sad",
+      "rank": 39,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Medieval Flail",
+          "status": "",
+          "percent": "21.42%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Headphones - Orange",
+          "status": "",
+          "percent": "7.1%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Shirt - Yellow",
+          "status": "",
+          "percent": "16.66%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "White",
+          "status": "",
+          "percent": "39.3%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Red",
+          "status": "",
+          "percent": "13.1%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "4e4f11d350f455f35c49b57e483e8410fc90ca4621847259d755f0cccab5ae7fi0",
+    "inscription": 52512,
+    "meta": {
+      "name": "Sad Frog #47",
+      "status": "Sad",
+      "rank": 38,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "God Sword",
+          "status": "",
+          "percent": "16.66%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Rice Hat",
+          "status": "",
+          "percent": "8.33%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Shirt - Green",
+          "status": "",
+          "percent": "16.66%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Black",
+          "status": "",
+          "percent": "13.1%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Green",
+          "status": "",
+          "percent": "14.28%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "4a17768ba1eec789c2670faf7150025c42843f72ff94af137c38b949d2efec24i0",
+    "inscription": 52545,
+    "meta": {
+      "name": "Sad Frog #48",
+      "status": "Sad",
+      "rank": 37,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Scimitar",
+          "status": "",
+          "percent": "20.24%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Party",
+          "status": "",
+          "percent": "9.52%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Shirt - Dark Blue",
+          "status": "",
+          "percent": "15.5%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "White",
+          "status": "",
+          "percent": "39.3%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Black",
+          "status": "",
+          "percent": "11.9%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "7f51357d6ac67f643c0f2e4192476587139a6fd15a62d4434c6b1ca885aedcd1i0",
+    "inscription": 52588,
+    "meta": {
+      "name": "Sad Frog #49",
+      "status": "Sad",
+      "rank": 36,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Long Sword",
+          "status": "",
+          "percent": "19.05%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Sombrero",
+          "status": "",
+          "percent": "10.71%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Gi - Red",
+          "status": "",
+          "percent": "6%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "White",
+          "status": "",
+          "percent": "39.3%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Purple",
+          "status": "",
+          "percent": "14.28%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "8c5434506051cd1eb241ddcf564357745ece9086ce98de58bc211d5410228bb1i0",
+    "inscription": 52628,
+    "meta": {
+      "name": "Sad Frog #50",
+      "status": "Sad",
+      "rank": 35,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Knife",
+          "status": "",
+          "percent": "21.4%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Cowboy Hat",
+          "status": "",
+          "percent": "8.33%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Gi - White",
+          "status": "",
+          "percent": "13.1%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Shorts - Orange",
+          "status": "",
+          "percent": "7.14%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Nothing",
+          "status": "",
+          "percent": "10.7%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "d43389a3d5b1f3a562c3e7ed5bc9c6413ce2e5a4ff9dd593456350d91cb4b9bei0",
+    "inscription": 52660,
+    "meta": {
+      "name": "Sad Frog #51",
+      "status": "Sad",
+      "rank": 34,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Medieval Flail",
+          "status": "",
+          "percent": "21.42%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Party",
+          "status": "",
+          "percent": "9.52%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Shirt - Light Blue",
+          "status": "",
+          "percent": "16.66%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Blue",
+          "status": "",
+          "percent": "16.66%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Brown - with Clasp",
+          "status": "",
+          "percent": "22.62%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "39ede80a12d2d7bbf59e9cd034772cd3040d7ce0adbfd0594d9b3ac6df90e2c6i0",
+    "inscription": 52702,
+    "meta": {
+      "name": "Sad Frog #52",
+      "status": "Sad",
+      "rank": 33,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "God Sword",
+          "status": "",
+          "percent": "16.66%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Rice Hat",
+          "status": "",
+          "percent": "8.33%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Shirt - Yellow",
+          "status": "",
+          "percent": "16.66%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Purple",
+          "status": "",
+          "percent": "15.48%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Grey - with Clasp",
+          "status": "",
+          "percent": "15.47%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "d5a5889733855f75e51709a501bc34650621a6406ceedded48617c0b6285262ai0",
+    "inscription": 52760,
+    "meta": {
+      "name": "Sad Frog #53",
+      "status": "Sad",
+      "rank": 32,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Scimitar",
+          "status": "",
+          "percent": "20.24%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Headphones - Orange",
+          "status": "",
+          "percent": "7.1%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Shirt - Green",
+          "status": "",
+          "percent": "16.66%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "White",
+          "status": "",
+          "percent": "39.3%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Red",
+          "status": "",
+          "percent": "13.1%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "bae49249c052ad0c7a29095b70f7bcaf4125e521635cf42bef830a4227c81563i0",
+    "inscription": 52781,
+    "meta": {
+      "name": "Sad Frog #54",
+      "status": "Sad",
+      "rank": 31,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Long Sword",
+          "status": "",
+          "percent": "19.05%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Headphones - Pink",
+          "status": "",
+          "percent": "7.1%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Shirt - Dark Blue",
+          "status": "",
+          "percent": "15.5%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Black",
+          "status": "",
+          "percent": "13.1%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Green",
+          "status": "",
+          "percent": "14.28%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "297331137a8fc23f5530dc7a0328e608ed4ef316ca841d2cc928360d9a8d3dafi0",
+    "inscription": 52794,
+    "meta": {
+      "name": "Sad Frog #55",
+      "status": "Sad",
+      "rank": 30,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Knife",
+          "status": "",
+          "percent": "21.4%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Baseball Hat (Backwards) - Red",
+          "status": "",
+          "percent": "8.33%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Gi - Red",
+          "status": "",
+          "percent": "6%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "White",
+          "status": "",
+          "percent": "39.3%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Black",
+          "status": "",
+          "percent": "11.9%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "a580bba8e700404ed7733fa270e47be63e2fc10713e5021f0313660c543f20fei0",
+    "inscription": 52953,
+    "meta": {
+      "name": "Sad Frog #56",
+      "status": "Sad",
+      "rank": 29,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Medieval Flail",
+          "status": "",
+          "percent": "21.42%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Crown",
+          "status": "",
+          "percent": "10.7%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Gi - White",
+          "status": "",
+          "percent": "13.1%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "White",
+          "status": "",
+          "percent": "39.3%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Purple",
+          "status": "",
+          "percent": "14.28%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "4d4b28f75dc8604f9e88a12eeb4eede3cf441139f1e6f8258729015cd2f01c10i0",
+    "inscription": 53000,
+    "meta": {
+      "name": "Sad Frog #57",
+      "status": "Sad",
+      "rank": 28,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "God Sword",
+          "status": "",
+          "percent": "16.66%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Baseball Hat - Purple",
+          "status": "",
+          "percent": "8.33%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Shirt - Light Blue",
+          "status": "",
+          "percent": "16.66%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Shorts - Orange",
+          "status": "",
+          "percent": "7.14%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Nothing",
+          "status": "",
+          "percent": "10.7%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "a7db0be25e354ef56faa11b947fd0aa64b060a4983910e4e619e2e6bec4827aci0",
+    "inscription": 53058,
+    "meta": {
+      "name": "Sad Frog #58",
+      "status": "Sad",
+      "rank": 27,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Scimitar",
+          "status": "",
+          "percent": "20.24%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Top Hat",
+          "status": "",
+          "percent": "6%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Shirt - Yellow",
+          "status": "",
+          "percent": "16.66%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Blue",
+          "status": "",
+          "percent": "16.66%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Brown - with Clasp",
+          "status": "",
+          "percent": "22.62%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "3d2bcffbafdbcf94536510e356d54763251f84e97c7b479f6be7856ee77c3496i0",
+    "inscription": 53104,
+    "meta": {
+      "name": "Sad Frog #59",
+      "status": "Sad",
+      "rank": 26,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Long Sword",
+          "status": "",
+          "percent": "19.05%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Baseball Hat - Grey",
+          "status": "",
+          "percent": "13.1%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Shirt - Green",
+          "status": "",
+          "percent": "16.66%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Purple",
+          "status": "",
+          "percent": "15.48%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Grey - with Clasp",
+          "status": "",
+          "percent": "15.47%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "fd59d5664fb2ba9fd65547c7bfd3a27334209927b43009b30454c4eea8b574dai0",
+    "inscription": 53121,
+    "meta": {
+      "name": "Sad Frog #60",
+      "status": "Sad",
+      "rank": 25,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Knife",
+          "status": "",
+          "percent": "21.4%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Sombrero",
+          "status": "",
+          "percent": "10.71%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Shirt - Dark Blue",
+          "status": "",
+          "percent": "15.5%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "White",
+          "status": "",
+          "percent": "39.3%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Red",
+          "status": "",
+          "percent": "13.1%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "91757b5e62aa198fdf826ba0a59fbf07ee92236633d3d629fd30d7057f33c586i0",
+    "inscription": 53165,
+    "meta": {
+      "name": "Sad Frog #61",
+      "status": "Sad",
+      "rank": 24,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Medieval Flail",
+          "status": "",
+          "percent": "21.42%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Cowboy Hat",
+          "status": "",
+          "percent": "8.33%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Gi - Black",
+          "status": "",
+          "percent": "3.57%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Black",
+          "status": "",
+          "percent": "13.1%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Green",
+          "status": "",
+          "percent": "14.28%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "0b73412ceb178ac78bfac3f4793c2158c6901708a7145017a6559c39cee9d0b1i0",
+    "inscription": 53185,
+    "meta": {
+      "name": "Sad Frog #62",
+      "status": "Sad",
+      "rank": 23,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "God Sword",
+          "status": "",
+          "percent": "16.66%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Party",
+          "status": "",
+          "percent": "9.52%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Shirt - Light Blue",
+          "status": "",
+          "percent": "16.66%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Black",
+          "status": "",
+          "percent": "13.1%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Green",
+          "status": "",
+          "percent": "14.28%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "1a33ec5fc5257fed611917969c748ae99df19e87f40dd5ba23f596706f5b5a9ai0",
+    "inscription": 53197,
+    "meta": {
+      "name": "Sad Frog #",63
+      "status": "Sad",
+      "rank": 22,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Scimitar",
+          "status": "",
+          "percent": "20.24%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Rice Hat",
+          "status": "",
+          "percent": "8.33%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Shirt - Yellow",
+          "status": "",
+          "percent": "16.66%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "White",
+          "status": "",
+          "percent": "39.3%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Black",
+          "status": "",
+          "percent": "11.9%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "fd97cd0f1716a70914cda8e0ba1b2f261deb834f31266916d661e3318e265a17i0",
+    "inscription": 53214,
+    "meta": {
+      "name": "Sad Frog #64",
+      "status": "Sad",
+      "rank": 21,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Long Sowrd",
+          "status": "",
+          "percent": ""
+        },
+        {
+          "trait_type": "Head",
+          "value": "Headphones - Orange",
+          "status": "",
+          "percent": "7.1%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Shirt - Green",
+          "status": "",
+          "percent": "16.66%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "White",
+          "status": "",
+          "percent": "39.3%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Purple",
+          "status": "",
+          "percent": "14.28%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "0abeef4176d2a3c4652bd312a7b53fdd56bda0090e0a988491e491386814d335i0",
+    "inscription": 53235,
+    "meta": {
+      "name": "Sad Frog #65",
+      "status": "Sad",
+      "rank": 20,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Knife",
+          "status": "",
+          "percent": "21.4%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Headphones - Pink",
+          "status": "",
+          "percent": "7.1%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Shirt - Dark Blue",
+          "status": "",
+          "percent": "15.5%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Shorts - Orange",
+          "status": "",
+          "percent": "7.14%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Nothing",
+          "status": "",
+          "percent": "10.7%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "9a041ab6a75005e96a0cee906dbd50fbc38dda2e5b5d21aec5e932fa9c480ab7i0",
+    "inscription": 53239,
+    "meta": {
+      "name": "Sad Frog #66",
+      "status": "Sad",
+      "rank": 19,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Medieval Flail",
+          "status": "",
+          "percent": "21.42%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Baseball Hat (Backwards) - Red",
+          "status": "",
+          "percent": "8.33%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Gi - Black",
+          "status": "",
+          "percent": "3.57%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Blue",
+          "status": "",
+          "percent": "16.66%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Brown - with Clasp",
+          "status": "",
+          "percent": "22.62%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "022a90336d6380f6b61e9f1d7b444f697681b2804e73164437004e1f6317476fi0",
+    "inscription": 53473,
+    "meta": {
+      "name": "Sad Frog #67",
+      "status": "Sad",
+      "rank": 18,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "God Sword",
+          "status": "",
+          "percent": "16.66%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Baseball Hat (Backwards) - Red",
+          "status": "",
+          "percent": "8.33%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Gi - White",
+          "status": "",
+          "percent": "13.1%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Purple",
+          "status": "",
+          "percent": "15.48%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Grey - with Clasp",
+          "status": "",
+          "percent": "15.47%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "cf4e1160eee703da928185171f8ffff986542d1568e1454a879c717a9802d948i0",
+    "inscription": 53529,
+    "meta": {
+      "name": "Sad Frog #68",
+      "status": "Sad",
+      "rank": 17,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Scimitar",
+          "status": "",
+          "percent": "20.24%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Crown",
+          "status": "",
+          "percent": "10.7%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Shirt - Light Blue",
+          "status": "",
+          "percent": "16.66%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "White",
+          "status": "",
+          "percent": "39.3%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Red",
+          "status": "",
+          "percent": "13.1%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "a8b61846492b59a64cf83f37c37afd95e8216f5fe9368fbaa04bf770aedbb900i0",
+    "inscription": 53582,
+    "meta": {
+      "name": "Sad Frog #69",
+      "status": "Sad",
+      "rank": 16,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Long Sword",
+          "status": "",
+          "percent": "19.05%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Baseball Hat - Purple",
+          "status": "",
+          "percent": "8.33%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Shirt - Yellow",
+          "status": "",
+          "percent": "16.66%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Black",
+          "status": "",
+          "percent": "13.1%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Green",
+          "status": "",
+          "percent": "14.28%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "4be19699df685eef915e106d43d49eeeb4655aa478ff2121cf677988ac1a63aci0",
+    "inscription": 53603,
+    "meta": {
+      "name": "Sad Frog #70",
+      "status": "Sad",
+      "rank": 15,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Knife",
+          "status": "",
+          "percent": "21.4%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Baseball Hat - Grey",
+          "status": "",
+          "percent": "13.1%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Shirt - Green",
+          "status": "",
+          "percent": "16.66%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "White",
+          "status": "",
+          "percent": "39.3%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Black",
+          "status": "",
+          "percent": "11.9%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "d20ce01e140d8d401f770ccd995171a84e5bfc7e97a8a731e3f6067069085457i0",
+    "inscription": 53619,
+    "meta": {
+      "name": "Sad Frog #71",
+      "status": "Sad",
+      "rank": 14,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Medieval Flail",
+          "status": "",
+          "percent": "21.42%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Sombrero",
+          "status": "",
+          "percent": "10.71%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Shirt - Dark Blue",
+          "status": "",
+          "percent": "15.5%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "White",
+          "status": "",
+          "percent": "39.3%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Purple",
+          "status": "",
+          "percent": "14.28%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "528864147634f5c7e27403ddff0d3411433edeafd263d30d280ab86492292222i0",
+    "inscription": 53694,
+    "meta": {
+      "name": "Sad Frog #72",
+      "status": "Sad",
+      "rank": 13,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Medieval Flail",
+          "status": "",
+          "percent": "21.42%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Baseball Hat - Grey",
+          "status": "",
+          "percent": "13.1%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Shirt - Dark Blue",
+          "status": "",
+          "percent": "15.5%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "White",
+          "status": "",
+          "percent": "39.3%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Purple",
+          "status": "",
+          "percent": "14.28%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "14bd7b0ee21939bfc2745ae0eb594291ceb220707fc0a80fb32c28f8dcd6813di0",
+    "inscription": 53733,
+    "meta": {
+      "name": "Sad Frog #73",
+      "status": "Sad",
+      "rank": 12,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "God Sword",
+          "status": "",
+          "percent": "16.66%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Sombrero",
+          "status": "",
+          "percent": "10.71%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Gi - Black",
+          "status": "",
+          "percent": "3.57%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Shorts - Orange",
+          "status": "",
+          "percent": "7.14%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Nothing",
+          "status": "",
+          "percent": "10.7%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "94760a714aa9692c6719770beaec8597cd613fb1977267803c30e5f3583d5821i0",
+    "inscription": 55321,
+    "meta": {
+      "name": "Sad Frog #74",
+      "status": "Sad",
+      "rank": 11,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Knife",
+          "status": "",
+          "percent": "21.4%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Cowboy Hat",
+          "status": "",
+          "percent": "8.33%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Gi - White",
+          "status": "",
+          "percent": "13.1%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Blue",
+          "status": "",
+          "percent": "16.66%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Brown - with Clasp",
+          "status": "",
+          "percent": "22.62%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "a0c3c280ee884b75194f68fa56715f27de054298d5eae1b210bd2040196e3e17i0",
+    "inscription": 55354,
+    "meta": {
+      "name": "Sad Frog #75",
+      "status": "Sad",
+      "rank": 10,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Scimitar",
+          "status": "",
+          "percent": "20.24%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Party",
+          "status": "",
+          "percent": "9.52%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Shirt - Light Blue",
+          "status": "",
+          "percent": "16.66%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Purple",
+          "status": "",
+          "percent": "15.48%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Grey - with Clasp",
+          "status": "",
+          "percent": "15.47%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "2017592c355689ec97bef38d4e8104575c82308e5579a5c209b73d93aa66db9ei0",
+    "inscription": 55363,
+    "meta": {
+      "name": "Sad Frog #76",
+      "status": "Sad",
+      "rank": 9,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Long Sword",
+          "status": "",
+          "percent": "19.05%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Headphones - Orange",
+          "status": "",
+          "percent": "7.1%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Shirt - Green",
+          "status": "",
+          "percent": "16.66%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "White",
+          "status": "",
+          "percent": "39.3%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Red",
+          "status": "",
+          "percent": "13.1%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "3fb1c9775b5d204b694d92c4a8405b631088016a54846e0d16943ba4c78370dai0",
+    "inscription": 55372,
+    "meta": {
+      "name": "Sad Frog #77",
+      "status": "Sad",
+      "rank": 8,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Knife",
+          "status": "",
+          "percent": "21.4%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Headphones - Pink",
+          "status": "",
+          "percent": "7.1%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Shirt - Light Blue",
+          "status": "",
+          "percent": "16.66%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Black",
+          "status": "",
+          "percent": "13.1%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Green",
+          "status": "",
+          "percent": "14.28%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "17aab2e6b63f5b02a02c942315f21f462505924a570bede0e0f6188eacd38aa2i0",
+    "inscription": 55386,
+    "meta": {
+      "name": "Sad Frog #78",
+      "status": "Sad",
+      "rank": 7,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "God Sword",
+          "status": "",
+          "percent": "16.66%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Baseball Hat (Backwards) - Red",
+          "status": "",
+          "percent": "8.33%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Shirt - Yellow",
+          "status": "",
+          "percent": "16.66%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Black",
+          "status": "",
+          "percent": "13.1%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Green",
+          "status": "",
+          "percent": "14.28%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "e8b8e9c1bea207024f656f5e4fb864b5be802d68250e8a57d11b3f3ae18491e7i0",
+    "inscription": 55422,
+    "meta": {
+      "name": "Sad Frog #79",
+      "status": "Sad",
+      "rank": 6,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Medieval Flail",
+          "status": "",
+          "percent": "21.42%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Crown",
+          "status": "",
+          "percent": "10.7%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Shirt - Green",
+          "status": "",
+          "percent": "16.66%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "White",
+          "status": "",
+          "percent": "39.3%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Black",
+          "status": "",
+          "percent": "11.9%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "1cf39801490d51ade0456935d5a5b62f3d8c09767f509ceb772cfc7c2db25b82i0",
+    "inscription": 55445,
+    "meta": {
+      "name": "Sad Frog #80",
+      "status": "Sad",
+      "rank": 5,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "God Sword",
+          "status": "",
+          "percent": "16.66%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Crown",
+          "status": "",
+          "percent": "10.7%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Gi - White",
+          "status": "",
+          "percent": "13.1%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "White",
+          "status": "",
+          "percent": "39.3%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Purple",
+          "status": "",
+          "percent": "14.28%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "d86024c1f7ea1409ad328d6e5e67890f9e7aad7a4b5027132619a86b5fb15d02i0",
+    "inscription": 55492,
+    "meta": {
+      "name": "Sad Frog #81",
+      "status": "Sad",
+      "rank": 4,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Scimitar",
+          "status": "",
+          "percent": "20.24%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Top Hat",
+          "status": "",
+          "percent": "6%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Shirt - Light Blue",
+          "status": "",
+          "percent": "16.66%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Shorts - Orange",
+          "status": "",
+          "percent": "7.14%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Nothing",
+          "status": "",
+          "percent": "10.7%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "58db65dd5d512ca61da5946157dee44ceb81c5342a1dc39068008f436d5c2dc7i0",
+    "inscription": 55503,
+    "meta": {
+      "name": "Sad Frog #82",
+      "status": "Sad",
+      "rank": 3,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Long Sword",
+          "status": "",
+          "percent": "19.05%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Baseball Hat - Purple",
+          "status": "",
+          "percent": "8.33%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Shirt - Yellow",
+          "status": "",
+          "percent": "16.66%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Blue",
+          "status": "",
+          "percent": "16.66%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Brown - with Clasp",
+          "status": "",
+          "percent": "22.62%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "a11f0cf7689e3cb8cb0f49ececa27cb07f6b6a5cf87939bcfa79a0896a33498ci0",
+    "inscription": 55570,
+    "meta": {
+      "name": "Sad Frog #83",
+      "status": "Sad",
+      "rank": 2,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Knife",
+          "status": "",
+          "percent": "21.4%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Baseball Hat - Grey",
+          "status": "",
+          "percent": "13.1%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Shirt - Green",
+          "status": "",
+          "percent": "16.66%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Purple",
+          "status": "",
+          "percent": "15.48%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Grey - with Clasp",
+          "status": "",
+          "percent": "15.47%"
+        },
+
+      ]
+    }
+  },
+  {
+    "id": "a4619eb5dc747ac51f570e36bfba92c822f603c9636e54600bf237f7d807f617i0",
+    "inscription": 55609,
+    "meta": {
+      "name": "Sad Frog #84",
+      "status": "Sad",
+      "rank": 1,
+      "attributes": [
+        {
+          "trait_type": "Weapon",
+          "value": "Medieval Flail",
+          "status": "",
+          "percent": "21.42%"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Sombrero",
+          "status": "",
+          "percent": "10.71%"
+        },
+        {
+          "trait_type": "Shirt",
+          "value": "Shirt - Dark Blue",
+          "status": "",
+          "percent": "15.5%"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "White",
+          "status": "",
+          "percent": "39.3%"
+        },
+        {
+          "trait_type": "Belt",
+          "value": "Red",
+          "status": "",
+          "percent": "13.1%"
+        }
 
       ]
     }
