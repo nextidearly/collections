@@ -1,11 +1,10 @@
 [
-{
+  {
     "id": "5844593217becaccd9fdd3d58f801f1a9acce17191b7287f51515794b54fee4bi0",
     "inscription": 4322196,
     "meta": {
       "name": "Pattern",
-      "status": "Hand painted",
-
+      "status": "Hand painted"
     }
   },
   {
@@ -13,8 +12,7 @@
     "inscription": 5422952,
     "meta": {
       "name": "Zinnia",
-      "status": "Hand painted",
-
+      "status": "Hand painted"
     }
   },
   {
@@ -22,7 +20,7 @@
     "inscription": 5422917,
     "meta": {
       "name": "Daffodil",
-      "status": "Hand painted",
+      "status": "Hand painted"
     }
   },
   {
@@ -30,8 +28,7 @@
     "inscription": 5422918,
     "meta": {
       "name": "Daisy",
-      "status": "Hand painted",
-
+      "status": "Hand painted"
     }
   },
   {
@@ -39,7 +36,7 @@
     "inscription": 5422919,
     "meta": {
       "name": "Leaf",
-      "status": "Hand painted",
+      "status": "Hand painted"
     }
   },
   {
@@ -47,8 +44,7 @@
     "inscription": 5422998,
     "meta": {
       "name": "Queen Anne's Lace",
-      "status": "Hand painted",
-
+      "status": "Hand painted"
     }
   },
   {
@@ -56,9 +52,7 @@
     "inscription": 5423031,
     "meta": {
       "name": "Rose",
-      "status": "Hand painted",
-
+      "status": "Hand painted"
     }
   }
-
 ]
