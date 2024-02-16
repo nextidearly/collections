@@ -31,6 +31,7 @@
     "website_link": "https://litecoinpunks.xyz",
     "twitter_link": "https://twitter.com/ltcmoonbird"
   },
+
 {
   "name": "SadFrogLTC",
   "inscription_icon": "879335913e2ede9d1f972f3deb579b3bec88ce7055d3e0015ee900fa49869ac3i0",
@@ -59,6 +60,16 @@
   "description": "Litecoin GIF, an exclusive collection of Ordinals that captures the unique essence of Litecoin through captivating GIF files.",
   "twitter_link": "https://twitter.com/OnlyWithCrypto",
   "inscription_icon": "fa466f51cdb7cd6486df41c8900a582648d21c1d303bad4b81c7047c7895e43di0"
+},
+{
+"name":"Game Card",
+"slug":"gc",
+"supply":"10000",
+"description":"The first 10k Ordinals game collection.Enter the link to start the game.Inscription 4501510~4592233",
+"twitter_link":"",
+"discord_link":"",
+"website_link":"",
+"inscription_icon":"7dc0289b20dd2070c331644353c226ac8fbf77aef616df33e03587cc7b817522i0"
 },
 {
     "name": "LiteScapes",
