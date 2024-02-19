@@ -62,16 +62,6 @@
   "inscription_icon": "fa466f51cdb7cd6486df41c8900a582648d21c1d303bad4b81c7047c7895e43di0"
 },
 {
-"name":"Game Card",
-"slug":"gc",
-"supply":"10000",
-"description":"The first 10k Ordinals game collection.Enter the link to start the game.Inscription 4501510~4592233",
-"twitter_link":"",
-"discord_link":"",
-"website_link":"",
-"inscription_icon":"7dc0289b20dd2070c331644353c226ac8fbf77aef616df33e03587cc7b817522i0"
-},
-{
     "name": "LiteScapes",
     "inscription_icon": "d519b0031301ad7aa428cc4bc577ed5379ad870b7504a55e8341b252234db3a0i0", 
     "supply": "113",
