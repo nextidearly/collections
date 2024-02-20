@@ -1,11 +1,16 @@
 {
-  "description": " Only 84 unique and original Armored patches. In the style of embroidered military patches, proudly wear Litecoin's colors all over the world.",
-  "discord_link": "",
-  "inscription_icon": "dcf1bd275b77b7e584412c4bca2f352b029aacbed367b217f7fbb71da9e19180i0",
-  "name": "Litecoin Armored Patch",
-  "slug": "litecoin-armored-patch",
-  "royalty_address": "ltc1qn6hcv0fgnh92y89jxw6m0pyp2fz7luu7046lme",
-  "supply": "84",
-  "website_link": "",
-  "twitter_link": "https://twitter.com/ArmoredPatch"
+  "collection_metadatas": {
+    "name": "Harish 2",
+    "description": "SBT TOKEN",
+    "inscription_icon": "https://lomads-dao-development.s3.eu-west-3.amazonaws.com/SBT/RiZQ2p5dr6q5SNbILOhNBcmPluavysjp.png",
+    "royalty_address": "",
+    "collection_Id": "",
+    "floor_price": 0.22,
+    "volume": 13.2,
+    "listed": 22,
+    "verification": true,
+    "discord_link": "",
+    "twitter_link": "",
+    "website_link": ""
+  }
 }
