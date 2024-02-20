@@ -31,26 +31,26 @@
     "website_link": "https://litecoinpunks.xyz",
     "twitter_link": "https://twitter.com/ltcmoonbird"
   },
-{
-  "name": "rarebearz",
-  "inscription_icon": "11f3ee01fee7852279789056fc2f320dbb2df6ea90be41dbc97a1b593a211b23i0",
-  "supply": "84",
-  "slug": "rare-bearz",
-  "description": "SadFrogLTC is a small but patient project with sharing in mind.",
-  "twitter_link": "https://twitter.com/SadFrogLTC",
-  "discord_link": "https://discord.gg/ZGJcUrtjvV",
-  "website_link": "https://sadfrogltc.com"
-},
-{
-  "name": "SadFrogLTC",
-  "inscription_icon": "879335913e2ede9d1f972f3deb579b3bec88ce7055d3e0015ee900fa49869ac3i0",
-  "supply": "84",
-  "slug": "sad-frog-ltc",
-  "description": "SadFrogLTC is a small but patient project with sharing in mind.",
-  "twitter_link": "https://twitter.com/SadFrogLTC",
-  "discord_link": "https://discord.gg/ZGJcUrtjvV",
-  "website_link": "https://sadfrogltc.com"
-},
+  {
+    "name": "rarebearz",
+    "inscription_icon": "11f3ee01fee7852279789056fc2f320dbb2df6ea90be41dbc97a1b593a211b23i0",
+    "supply": "84",
+    "slug": "rare-bearz",
+    "description": "SadFrogLTC is a small but patient project with sharing in mind.",
+    "twitter_link": "https://twitter.com/SadFrogLTC",
+    "discord_link": "https://discord.gg/ZGJcUrtjvV",
+    "website_link": "https://sadfrogltc.com"
+  },
+  {
+    "name": "SadFrogLTC",
+    "inscription_icon": "879335913e2ede9d1f972f3deb579b3bec88ce7055d3e0015ee900fa49869ac3i0",
+    "supply": "84",
+    "slug": "sad-frog-ltc",
+    "description": "SadFrogLTC is a small but patient project with sharing in mind.",
+    "twitter_link": "https://twitter.com/SadFrogLTC",
+    "discord_link": "https://discord.gg/ZGJcUrtjvV",
+    "website_link": "https://sadfrogltc.com"
+  },
   {
     "description": "Dive into the enchanting world of Froggy on the Litecoin blockchain. Unleash a leap of whimsical and unique NFT frogs, each holding the promise of a charming fortune.",
     "inscription_icon": "7e9954427ec542b7184dc7258e3b7c157242147cd31e9566a2ab3acef7fd4acai0",
@@ -62,24 +62,24 @@
     "twitter_link": "https://twitter.com/OnlyWithCrypto",
     "royalty_address": ""
   },
-{
-  "name": "Litecoin GIF",
-  "slug": "litecoin-gif",
-  "supply": "129",
-  "description": "Litecoin GIF, an exclusive collection of Ordinals that captures the unique essence of Litecoin through captivating GIF files.",
-  "twitter_link": "https://twitter.com/OnlyWithCrypto",
-  "inscription_icon": "fa466f51cdb7cd6486df41c8900a582648d21c1d303bad4b81c7047c7895e43di0"
-},
-{
+  {
+    "name": "Litecoin GIF",
+    "slug": "litecoin-gif",
+    "supply": "129",
+    "description": "Litecoin GIF, an exclusive collection of Ordinals that captures the unique essence of Litecoin through captivating GIF files.",
+    "twitter_link": "https://twitter.com/OnlyWithCrypto",
+    "inscription_icon": "fa466f51cdb7cd6486df41c8900a582648d21c1d303bad4b81c7047c7895e43di0"
+  },
+  {
     "name": "LiteScapes",
-    "inscription_icon": "d519b0031301ad7aa428cc4bc577ed5379ad870b7504a55e8341b252234db3a0i0", 
+    "inscription_icon": "d519b0031301ad7aa428cc4bc577ed5379ad870b7504a55e8341b252234db3a0i0",
     "supply": "113",
     "slug": "liteScapes",
     "description": "LiteScapes - Banner landscape sized 1500 x 500 fine sophisticated art on Litecoin by BitScapes",
     "twitter_link": "https://twitter.com/BitScapesOrd",
     "discord_link": "",
     "website_link": ""
-},
+  },
   {
     "description": "Lite Pandas - 1000 pixelated pandas on Litecoin Ordinals!",
     "inscription_icon": "cb42f3eeb3e3be91614730a7eecbf8d25d27a11a079d5c0ed5c6059a44c42de0i0",
@@ -134,14 +134,14 @@
     "website_link": ""
   },
   {
-  "name": "Floral Collection by AudreyLite",
-  "inscription_icon": "710e9ec7cd71b9700d6af0042e819568edd53f10788bbd506b65dded93051b59i0",
-  "supply": "7",
-  "slug": "floral-audreylite",
-  "description": "A collection of hand painted flowers. Owning one of these supports the artist while opening up the opportunity to earn a portion from any sales of the image, whether it's from prints, stickers or merchandise.",
-  "twitter_link": "https://twitter.com/AudreyLite",
-  "discord_link": "",
-  "website_link": "https://sadfrogltc.art/audreylite"
+    "name": "Floral Collection by AudreyLite",
+    "inscription_icon": "710e9ec7cd71b9700d6af0042e819568edd53f10788bbd506b65dded93051b59i0",
+    "supply": "7",
+    "slug": "floral-audreylite",
+    "description": "A collection of hand painted flowers. Owning one of these supports the artist while opening up the opportunity to earn a portion from any sales of the image, whether it's from prints, stickers or merchandise.",
+    "twitter_link": "https://twitter.com/AudreyLite",
+    "discord_link": "",
+    "website_link": "https://sadfrogltc.art/audreylite"
   },
   {
     "name": "Lil Ordies",
