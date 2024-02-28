@@ -1,5 +1,14 @@
 [
   {
+    "name": "LITE",
+    "logo": "https://cdn.coinranking.com/rQdUpJdc3/rlPCBeWM_400x400.PNG?size=30x30",
+    "ticker": "lite",
+    "totalSupply": "21,000,000",
+    "website_link": "https://t.co/fYkpbkejxF",
+    "twitter_link": "https://twitter.com/LitecoinLabs",
+    "discord_link": "https://discord.gg/dpf3B5GVP5"
+  },
+  {
     "name": "ELKS",
     "logo": "https://pbs.twimg.com/profile_images/1742035341211848705/oqOW3NaN_400x400.png",
     "ticker": "elks",
@@ -82,7 +91,7 @@
   },
   {
     "name": "ILTC",
-    "logo": "https://cdn.coinranking.com/rQdUpJdc3/rlPCBeWM_400x400.PNG?size=30x30",
+    "logo": "https://cdn.coinranking.com/BUvPxmc9o/ltcnew.svg?size=34x34",
     "ticker": "iltc",
     "totalSupply": "84,000,000",
     "website_link": "",
